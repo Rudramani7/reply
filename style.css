@@ -1,12 +1,13 @@
 .main{
 background: darkgray;
-width: 15%;
+width: 20%;
 padding-top: 5px;
 padding-bottom: 5px;
 }
 
 .btn{
     border-radius: 5px;
+    margin-left: 10px;
 }
 
 .inp{
